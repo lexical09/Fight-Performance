@@ -1,0 +1,31 @@
+	carrier_name	variable	value
+0	Envoy Air	arrival_delay	0.5
+1	JetBlue Airways	arrival_delay	0.5
+2	Mesa Airlines Inc.	arrival_delay	0.5
+3	Northwest Airlines Inc.	arrival_delay	0.5
+4	Spirit Air Lines	arrival_delay	0.5
+5	Envoy Air	carrier_delay	0.12449902347871301
+6	JetBlue Airways	carrier_delay	0.11930883390154302
+7	Mesa Airlines Inc.	carrier_delay	0.18060156824688897
+8	Northwest Airlines Inc.	carrier_delay	0.19466635583488603
+9	Spirit Air Lines	carrier_delay	0.0726004189035593
+10	Envoy Air	weather_delay	0.0408070433714363
+11	JetBlue Airways	weather_delay	0.0147289044273464
+12	Mesa Airlines Inc.	weather_delay	0.0229038394053847
+13	Northwest Airlines Inc.	weather_delay	0.0270689612118198
+14	Spirit Air Lines	weather_delay	0.00216957730772255
+15	Envoy Air	nas_delay	0.13666946037080802
+16	JetBlue Airways	nas_delay	0.165093466546923
+17	Mesa Airlines Inc.	nas_delay	0.0825420813361707
+18	Northwest Airlines Inc.	nas_delay	0.16339577791012302
+19	Spirit Air Lines	nas_delay	0.33565183824317896
+20	Envoy Air	security_delay	0.0007345399235742809
+21	JetBlue Airways	security_delay	0.0013743462082397
+22	Mesa Airlines Inc.	security_delay	0.000976352021398725
+23	Northwest Airlines Inc.	security_delay	0.00074991302753461
+24	Spirit Air Lines	security_delay	0.00137251678116221
+25	Envoy Air	late_aircraft_delay	0.19728993285546803
+26	JetBlue Airways	late_aircraft_delay	0.199494448915948
+27	Mesa Airlines Inc.	late_aircraft_delay	0.21297615899015698
+28	Northwest Airlines Inc.	late_aircraft_delay	0.114118992015637
+29	Spirit Air Lines	late_aircraft_delay	0.0882056487643775
