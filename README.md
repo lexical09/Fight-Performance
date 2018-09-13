@@ -20,7 +20,7 @@ The exploratory data analysis was conducted using RStudio. At first, I observed 
 
 The detailed of this step can be viewed via data/flight_performance_2005_2015.Rmd file. At first I plotted the on-time percentage for each carrier by year; however, this plot turned out to be very busy since there are 24 carriers in total. The figure was super clustered and squeezed into a corner since the legend takes all the space.
 
-![alt tag](https://github.com/lexical09/Fight-Performance/edit/master/figures/pic1.png)
+![alt tag](./figures/pic1.png)
 
 Hence, I decided to organize my data more by averaging the number of delayed flights and the on-time percentage by carriers within that time period. I then generated two different bar charts which show the top five airlines with the highest averaged number of delayed flights ,and the top five airlines with the highest averaged on-time percentage during 2005-2015. The following plots were obtained: 
 
