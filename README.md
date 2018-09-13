@@ -2,7 +2,7 @@
 
 ## Summary 
 
-In this project, the flight performance of all domestic U.S. carriers was investiagted for the period 2005-2015. The dataset for this study was obtained from the following link:https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1.The main visualization focuses on three different charts:
+In this project, the flight performance of all domestic U.S. carriers was investiagted for the period 2005-2015. The dataset for this study was obtained from the following [link](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1).The main visualization focuses on three different charts:
 + The averaged number of delay flights for the top five airlines with the highest number of delayed flights
 + The averaged percentaged of on-time flights for the top five airlines with the highest percentage of on-time flights
 + A distribution of number of flights delayed by different cause for all airines in the top five airlineds with the highest number of delayed flights.  
